@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="TesteDesempenhoXMN\TesteDesempenhoXMN.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus_5_API_23_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TesteDesempenhoXMN\MainActivity.cs">
+    <Files>
+      <File FileName="TesteDesempenhoXMN\MainActivity.cs" Line="28" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
